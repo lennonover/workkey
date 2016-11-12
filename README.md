@@ -21,7 +21,7 @@ MongoDB可能是现今NoSQL数据库中最著名的。选择是因为它数据�
 
 ## 展示
 
-![可视化](http://ob6nlbpso.bkt.clouddn.com/nodeSprite.png)
+![可视化](img/nodeSprite.png)
 
 
 
